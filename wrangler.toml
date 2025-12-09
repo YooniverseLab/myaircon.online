@@ -1,5 +1,5 @@
 name = "my-aircon"
-main = "src/index.js"
+main = "server.js"
 compatibility_date = "2025-12-09"
 
 [site]
